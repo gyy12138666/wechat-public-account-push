@@ -106,14 +106,14 @@
       name: '老婆',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       // 使用其他通道时，请严格按照各个通道的教程进行填写
-      id: 'o6I3a7c9tuEe4fr3LvvZjBeuD3wU',
+      id: 'o6I3a7V4vD8DOZWu7a2YAuE3tXXU',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
       useTemplateId: 'n6fql4Qt7Qmmqo3Br7EvDYaqV09b39y3OzfNRjXLgoA',
       // 所在省份或城市，也可以不填
-      province: '浙江',
+      province: '广西',
       // 所在城市或县区
-      city: '宁波',
+      city: '百色',
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '12-23',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
