@@ -109,7 +109,7 @@
       id: 'o6I3a7c9tuEe4fr3LvvZjBeuD3wU',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
-      useTemplateId: 'n6fql4Qt7Qmmqo3Br7EvDYaqV09b39y3OzfNRjXLgoA',
+      useTemplateId: 'BbDa5xZ78oqabuMYsJpFntKKuscbXx2ASG6orOCgDdA',
       // 所在省份或城市，也可以不填
       province: '广西',
       // 所在城市或县区
