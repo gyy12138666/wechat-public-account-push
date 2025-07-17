@@ -111,9 +111,9 @@
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
       useTemplateId: 'BbDa5xZ78oqabuMYsJpFntKKuscbXx2ASG6orOCgDdA',
       // 所在省份或城市，也可以不填
-      province: '广西',
+      province: '浙江',
       // 所在城市或县区
-      city: '百色',
+      city: '余姚',
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '12-23',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -279,9 +279,9 @@
   /**    * 天气相关   *    * 可以填 省份或者市区， PROVINCE 的区域必须包含 CITY   * 例如： PROVINCE：'广东' CITY：'惠州'   * 例如： PROVINCE：'咸阳' CITY：'长武'   *   * 甚至 PROVINCE 可以不填   * 例如： PROVINCE：'' CITY：'长武'   * */
   
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: '咸阳',
+  PROVINCE: '浙江',
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: '长武',
+  CITY: '宁波',
 
   /** 重要节日相关 */
 
